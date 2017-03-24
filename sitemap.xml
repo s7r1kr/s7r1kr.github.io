@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.toptravelessentials.com/</loc>
+        <loc>http://www.toptravelessentials.com/</loc>
         <priority>0.5</priority>
         <lastmod>2017-02-27</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.toptravelessentials.com/about-us/</loc>
+        <loc>http://www.toptravelessentials.com/about-us.html</loc>
         <priority>0.5</priority>
         <lastmod>2017-02-27</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.toptravelessentials.com/privacy-policy/</loc>
+        <loc>http://www.toptravelessentials.com/privacy-policy.html</loc>
         <priority>0.5</priority>
         <lastmod>2017-02-27</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.toptravelessentials.com/terms/</loc>
+        <loc>https://www.toptravelessentials.com/terms.html</loc>
         <priority>0.5</priority>
         <lastmod>2017-02-27</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.toptravelessentials.com/reviews/best-hand-luggage/</loc>
+        <loc>http://www.toptravelessentials.com/reviews/best-hand-luggage.html</loc>
         <priority>0.5</priority>
         <lastmod>2017-03-05</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.toptravelessentials.com/reviews/best-laptop-bags/</loc>
+        <loc>http://www.toptravelessentials.com/reviews/best-laptop-bags.html</loc>
         <priority>0.5</priority>
         <lastmod>2017-03-05</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.toptravelessentials.com/reviews/best-duffel-bags/</loc>
+        <loc>http://www.toptravelessentials.com/reviews/best-duffel-bags.html</loc>
         <priority>0.5</priority>
         <lastmod>2017-03-05</lastmod>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://www.toptravelessentials.com/guides/</loc>
+        <loc>http://www.toptravelessentials.com/guides.html</loc>
         <priority>0.5</priority>
         <lastmod>2017-03-05</lastmod>
         <changefreq>monthly</changefreq>
